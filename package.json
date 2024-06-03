@@ -1,8 +1,8 @@
 {
-  "name": "perplexica-backend",
+  "name": "perpetual-backend",
   "version": "1.5.0",
-  "license": "MIT",
-  "author": "ItzCrazyKns",
+  "license": "none",
+  "author": "potato",
   "scripts": {
     "start": "node dist/app.js",
     "build": "tsc",
